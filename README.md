@@ -1,6 +1,6 @@
 <h2>👨 About me </h2>
 Hi there I am Ronaldo Rigo 👋 <br>
-🔭 I’m DevOps/Cloud Engineer <br>
+🔭 I’m DevOps/Cloud Engineer in training <br>
 🌱 I’m always learning about Cloud, IaC, DevOps Tools, Development Lifecycle <br>
 📫 How to reach me: ronaldo.rigo@outlook.com <br>
 😄 Pronouns: he/him <br>

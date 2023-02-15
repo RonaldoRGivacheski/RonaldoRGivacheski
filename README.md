@@ -33,7 +33,7 @@
     <img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="Instagram">
   </a>
   <a href="mailto:ronaldo.rigo@outlook.com"" rel="nofollow">
-    <img src="https://tips.tutorialhorizon.com/files/2016/08/Outlook-2013-logo-icon.gif" width="115" height="35" alt="Outlook">
+    <img src="https://www.pcworld.com/wp-content/uploads/2022/12/1055.outlook-logo-2_thumb_56da2757-100841646-orig.jpg" width="115" height="35" alt="Outlook">
   </a>
 </p>
 <h2 dir="auto"> </h2>

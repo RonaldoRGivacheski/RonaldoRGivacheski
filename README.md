@@ -21,7 +21,7 @@
   <img src="https://camo.githubusercontent.com/d8d68d0ff3e31f17649ff3a86c30f95f90578a16c55e2cc34f09566a9083d0b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c53747564696f436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="VSCODE">
   <img src="https://www.neteye-blog.com/wp-content/uploads/2017/12/Grafana.png" width="115" height="35" alt="GRAFANA">
   <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" width="115" height="35" alt="ZABBIX">
-  <img src="https://blog.pridybailo.com/wp-content/uploads/sites/2/2019/08/Blog-Topper.png" width="115" height="35" alt="PROMETHEUS">
+  <img src="https://leanpub.com/site_images1/rpcmonitor/prometheus-logo.jpg" width="115" height="35" alt="PROMETHEUS">
 </p>
 <h2 dir="auto"> </h2>
 <h3 align="center">Social Media:</h3>

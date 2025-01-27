@@ -3,8 +3,14 @@
 
 <p align="center">
 🎯 Desenvolvedor Full Stack | Entusiasta de DevOps 
+</p>
+<p align="center">
 🌐 Focado em criar soluções tecnológicas completas e personalizadas  
+</p>
+<p align="center">
 📫 Entre em contato: ronaldo.rigo@outlook.com  
+</p>
+<p align="center">
 😄 Pronomes: ele/dele (he/him)  
 </p>
 

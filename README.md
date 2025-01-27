@@ -1,40 +1,88 @@
-<h2 align="center">👨 About me </h2>
-<p align="center">Hi there I am Ronaldo Rigo 👋 <br>
-🔭 I’m DevOps/Cloud Engineer in training <br>
-🌱 I’m always learning about Cloud, IaC, DevOps Tools, Development Lifecycle <br>
-📫 How to reach me: ronaldo.rigo@outlook.com <br>
-😄 Pronouns: he/him <br>
- </p>
+**<h2 align="center">👨 About me </h2>
+<h1 align="center">Hi there, I'm Ronaldo Rigo 👋</h1>
+
+<p align="center">
+🎯 Desenvolvedor Full Stack | Entusiasta de DevOps 
+🌐 Focado em criar soluções tecnológicas completas e personalizadas  
+📫 Entre em contato: ronaldo.rigo@outlook.com  
+😄 Pronomes: ele/dele (he/him)  
+</p>
+
+---
+
+## Sobre Mim  
+
+Sou um desenvolvedor Full Stack apaixonado por criar soluções web inovadoras e eficientes. Com uma abordagem voltada para qualidade e desempenho, atuo em todas as etapas do desenvolvimento de aplicações web:  
+
+- **Planejamento**: Modelagem de processos e definição de requisitos.  
+- **Back-end**: Desenvolvimento robusto com **Python (Django, FastAPI, Flask)**.  
+- **Front-end**: Criação de interfaces modernas e intuitivas com **JavaScript** e frameworks como **React e Vue.js**.  
+- **DevOps**: Contêineres com **Docker**, orquestração com **Kubernetes**, e mensageria com **RabbitMQ**.  
+- **Banco de Dados**: Gerenciamento e modelagem com **Oracle** , **PostgreSQL** e **MYSQL**.  
+- **Ferramentas Ágeis**: Utilização de Kanban e metodologias para garantir eficiência e transparência no fluxo de trabalho.  
+
+---
+
+## Minha Abordagem  
+
+- **Código de Qualidade**: Desenvolvo soluções com foco em performance, segurança e manutenibilidade.  
+- **Testes**: Uso extensivo de testes unitários para validação e robustez dos sistemas.  
+- **Treinamentos**: Capacito usuários finais para extraírem o máximo das soluções desenvolvidas.  
+- **Inovação e Eficiência**: Sempre em busca de formas de resolver problemas de maneira criativa e impactante.  
+
+---
+
+## O Que Estou Aprendendo  
+
+Atualmente, estou aprofundando meus conhecimentos em:  
+- Python, LangChain.  
+- Integração contínua (CI/CD) e ferramentas DevOps.  
+- Ferramentas e tecnologias como **RabbitMQ**, **FastAPI**, **Postman**, entre outras.  
+
+---
+
+## Minha Visão  
+
+Acredito que a tecnologia é uma ferramenta poderosa para transformar empresas e processos. Meu objetivo é combinar inovação e experiência para criar soluções que gerem impacto real e mensurável.  
+
+---
+
+### Vamos Conectar?  
+
+Se você procura um profissional comprometido, com experiência em desenvolvimento Full Stack e paixão por criar soluções tecnológicas de ponta, ficarei feliz em conectar.  
+➡️ Me envie uma mensagem no LinkedIn ou e-mail, e vamos transformar ideias em realidade!  
+
+---
+
+<h4 align="center">"Sempre aprendendo, sempre evoluindo."</h4>
+
 <h2 dir="auto"> </h2>
 <h3 align="center">Stack:</h3>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/9281daa5684971fd3325661e3dd5fea86b21a902e3741a556fb636fbf0e2f3d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="AWS">
-  <img src="https://camo.githubusercontent.com/0ff95ac28f85bda17f062b6babaa5f81dcfb540ad9239a9f248057ede13027fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="GCP">
-  <img src="https://camo.githubusercontent.com/bdceff7844d6316ebd4afb3ef39502a89bc897b84819844c7dafb867e44d07ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617a7572652d2532333030373243362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d617a7572652d6465766f7073266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="AZURE">
-  <img src="https://camo.githubusercontent.com/79c115f5f7c3c6cd19b8ec09c8e139b061e891a05046cde5d7b9dcd0532d3485/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7465727261666f726d2d2532333538333543432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7465727261666f726d266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="TERRAFORM">
- <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&amp;logo=ansible&amp;logoColor=white" width="115" height="35" alt="ANSIBLE">
-  <img src="https://camo.githubusercontent.com/922a5d8888929fc17acaaf995fe42f50788f30a5b58f45b03c6bafc9e4b5791f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b756265726e657465732d2532333332366365352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="KURBENETES">
-  <img src="https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="DOCKER">
-  <br><img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" width="115" height="35" alt="LINUX">
-  <img src="https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423825f113ea4ae639f4dcfd0392d82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="UBUNTU">
-  <img src="https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="GIT">
-  <img src="https://camo.githubusercontent.com/d8d68d0ff3e31f17649ff3a86c30f95f90578a16c55e2cc34f09566a9083d0b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c53747564696f436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="VSCODE">
-  <img src="https://www.neteye-blog.com/wp-content/uploads/2017/12/Grafana.png" width="115" height="35" alt="GRAFANA">
-  <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" width="115" height="35" alt="ZABBIX">
-  <img src="https://leanpub.com/site_images1/rpcmonitor/prometheus-logo.jpg" width="115" height="35" alt="PROMETHEUS">
+  <img src="https://www.python.org/static/img/python-logo.png" width="115" height="35" alt="Python">
+  <img src="https://blog.geekhunter.com.br/wp-content/uploads/2020/08/django-framework.png" width="115" height="35" alt="Django">
+  <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" width="115" height="35" alt="Flask">
+  <img src="https://mabittar.github.io/assets/img/fastapi.png" width="115" height="35" alt="Fast API">
+  <br>
+  <img src="https://delta-dev-software.fr/wp-content/uploads/2024/02/react-logo-freelogovectors.net_.png" width="115" height="50" alt="React">
+  <img src="https://runcode-app-public.s3.amazonaws.com/images/vuejs-online-editor-compiler.original.png" width="115" height="50" alt="Vue.js">
+  <br>
+  <img src="https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=twitter" width="115" height="50" alt="Oracle">
+  <img src="https://www.hostingzone.com.br/images/postgresql-logo.png" width="115" height="50" alt="PostgreSQL">
+  <img src="https://logos-marques.com/wp-content/uploads/2023/09/MySQL-Logo-thmb.png" width="115" height="50" alt="MYSQL">
+  
+
 </p>
 <h2 dir="auto"> </h2>
 <h3 align="center">Social Media:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ronaldorigo/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="Linkedin">
-  </a>
-  <a href="https://instagram.com/ronaldo_rigo" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" width="115" height="35" alt="Instagram">
+  <img src="https://media.licdn.com/dms/image/D4D12AQG4RhSmZ2eKcg/article-cover_image-shrink_720_1280/0/1668455886496?e=2147483647&v=beta&t=5glX7R45u2hhIAnL3zQBgoCJK5VJWSDPLI7LcO08gFw" width="115" height="50" alt="Linkedin">
   </a>
   <a href="mailto:ronaldo.rigo@outlook.com"" rel="nofollow">
-    <img src="https://www.pcworld.com/wp-content/uploads/2022/12/1055.outlook-logo-2_thumb_56da2757-100841646-orig.jpg" width="115" height="35" alt="Outlook">
+    <img src="https://www.pcworld.com/wp-content/uploads/2022/12/1055.outlook-logo-2_thumb_56da2757-100841646-orig.jpg" width="115" height="50" alt="Outlook">
   </a>
 </p>
 <h2 dir="auto"> </h2>
 
+**

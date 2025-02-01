@@ -1,4 +1,4 @@
-**<h2 align="center">👨 About me </h2>
+<h2 align="center">👨 About me </h2>
 <h1 align="center">Hi there, I'm Ronaldo Rigo 👋</h1>
 
 <p align="center">
@@ -91,4 +91,3 @@ Se você procura um profissional comprometido, com experiência em desenvolvimen
 </p>
 <h2 dir="auto"> </h2>
 
-**
